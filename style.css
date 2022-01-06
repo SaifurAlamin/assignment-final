@@ -77,14 +77,14 @@ body{
     
 }
 .develop-banner{
-    background-image: url(/photos/shape-1.png);
+    background-image: url(photos/shape-1.png);
     background-repeat: no-repeat;
     background-position: left;
     background-size: 250px;
     margin-left: 50px;
 }
 .extra-curricular{
-    background-image: url(/photos/shape-1.png);
+    background-image: url(photos/shape-1.png);
     background-repeat: no-repeat;
     background-position:right ;
     background-size: 300px;
