@@ -1,0 +1,123 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.top-part{
+    display: flex;
+    margin-bottom:80px;
+    margin-left:105px;
+    margin-right:105px
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+
+.half-width img{
+    width: 80%;
+   
+}
+ h1{
+    font-size: 50px;
+    padding-left:4px ;
+}
+.color-orange{
+    color: orange;
+}
+.side-border{
+    border-left:5px solid;
+    border-image: linear-gradient(tomato,salmon ) ;
+    border-image-slice:1;
+    }
+.btn{
+    text-decoration: none;
+    padding:10px 30px ;
+    background-color: rgb(241, 72, 10);
+    border-radius: 5px;
+    color: white;
+    font-size:20px ;
+}
+#h1{
+    text-align: center;
+}
+.mission-passion{
+    display: flex;
+    margin-left: 105px;
+    margin-right: 105px;
+    margin-bottom: 70px;
+   
+}
+.mission-passion img{
+    width: 40%;
+    border-radius: 5px;
+    
+}
+.box-item{
+    width: 30%;
+    padding-left:20px;
+    box-shadow: 10px 10px 30px rgb(219, 216, 216);
+    border-radius: 25px;
+
+}
+#mission{
+    background-color: pink;
+    margin-left: 20px;
+    
+}
+#vision{
+    background-color: plum;
+    margin-left: 20px;
+    
+}
+#goal{
+    background-color: powderblue;
+    margin-left: 20px;
+    
+}
+.develop-banner{
+    background-image: url(/photos/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 250px;
+    margin-left: 50px;
+}
+.extra-curricular{
+    background-image: url(/photos/shape-1.png);
+    background-repeat: no-repeat;
+    background-position:right ;
+    background-size: 300px;
+}
+#travel{
+    background-color: rgb(181, 215, 219);
+    margin-left: 20px;
+    
+}
+#playing{
+    background-color: whitesmoke;
+    margin-left: 20px;
+    
+}
+#watching{
+    background-color: thistle;
+    margin-left: 20px;
+    text-decoration: none;
+}
+.mission-passion a{
+    text-decoration: none;
+}
+footer{
+    background-color: gray;
+    height: 100px;
+}
+footer h3{
+     color:white;
+    text-align: center; 
+
+}
+footer small{
+    color: white;
+    text-align: center;
+    display: block; 
+}
